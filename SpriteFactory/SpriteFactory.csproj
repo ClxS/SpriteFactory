@@ -4,6 +4,8 @@
     <TargetFramework>net472</TargetFramework>
     <UseWPF>true</UseWPF>
     <ApplicationIcon>sprite-factory.ico</ApplicationIcon>
+    <ManagePackageVersionsCentrally>false</ManagePackageVersionsCentrally>
+    <WarningLevel>0</WarningLevel>
   </PropertyGroup>
   
   <ItemGroup>
